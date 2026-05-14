@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create REST endpoints and manage data using FastAPI.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-06-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-dictionaries",
+      "title": "Python Dictionaries",
+      "description": "Store, access, and update data using Python dictionaries.",
+      "path": "assignments/python-dictionaries",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
