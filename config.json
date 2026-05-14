@@ -86,6 +86,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-lists",
+      "title": "Python Lists",
+      "description": "Storing, accessing, and modifying sequences of data using lists.",
+      "path": "assignments/python-lists",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
